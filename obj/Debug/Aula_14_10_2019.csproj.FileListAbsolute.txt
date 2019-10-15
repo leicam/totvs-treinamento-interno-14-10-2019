@@ -1,0 +1,6 @@
+C:\Users\juliano.maciel\source\repos\Aula_14_10_2019\bin\Debug\Aula_14_10_2019.exe.config
+C:\Users\juliano.maciel\source\repos\Aula_14_10_2019\bin\Debug\Aula_14_10_2019.exe
+C:\Users\juliano.maciel\source\repos\Aula_14_10_2019\bin\Debug\Aula_14_10_2019.pdb
+C:\Users\juliano.maciel\source\repos\Aula_14_10_2019\obj\Debug\Aula_14_10_2019.exe
+C:\Users\juliano.maciel\source\repos\Aula_14_10_2019\obj\Debug\Aula_14_10_2019.pdb
+C:\Users\juliano.maciel\source\repos\Aula_14_10_2019\obj\Debug\Aula_14_10_2019.csprojAssemblyReference.cache
